@@ -1,1 +1,1 @@
-Sliding SignUp and SignIn page responsive created using Bootstrap4,CSS and JavaScript.
+Sliding SignUp and SignIn responsive page created using Bootstrap4,CSS and JavaScript.
